@@ -1,0 +1,2 @@
+# MannyCoin
+Creating token contract.
